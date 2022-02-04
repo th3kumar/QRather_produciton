@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/icon_home"
+        android:icon="@drawable/icon_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/icon_generate"
+        android:icon="@drawable/icon_generate"
+        android:title="Generate" />
+    <item
+        android:id="@+id/icon_help"
+        android:icon="@drawable/icon_help"
+        android:title="Help" />
+
+    <item
+        android:id="@+id/icon_person"
+        android:icon="@drawable/icon_person"
+        android:title="Profile" />
+
+</menu>
